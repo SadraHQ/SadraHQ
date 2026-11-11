@@ -11,7 +11,8 @@ Computer science student and beginner web developer. I'm learning programming by
 
 **Tools:**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WAMP](https://img.shields.io/badge/WAMP-F58220?style=for-the-badge)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![WampServer](https://img.shields.io/badge/WampServer-F58220?style=for-the-badge)
 
 ## 🌱 Currently Learning
 
