@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sadra 👋
 
-<!--
-**SadraHQ/SadraHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student and beginner web developer. I'm learning programming by building things, mostly with **PHP and Laravel**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Tools:**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WAMP](https://img.shields.io/badge/WAMP-F58220?style=for-the-badge)
+
+## 🌱 Currently Learning
+
+- Building real projects with Laravel
+- Writing cleaner PHP and better MySQL queries
+- Working with Git and GitHub in my daily workflow
+
+## 📂 Projects
+
+I'm currently working on my projects. They'll be added here soon.
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadreamkf@gmail.com)
+
+You can reach me at **sadreamkf@gmail.com**.
